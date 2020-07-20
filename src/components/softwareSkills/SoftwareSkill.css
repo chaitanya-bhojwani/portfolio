@@ -20,10 +20,84 @@
 .software-skill-inline > i:hover {
   color: #645beb;
 }
+
 .software-skill-inline > p {
   color: #868e96;
-  font-size: 10px;
+  font-size: 12px;
 }
+
 .software-skill-inline > i:hover ~ p{
   color: #645beb;
+}
+
+.software-skill-inline > .skill-image-div:hover ~ p{
+  color: #645beb;
+}
+
+.skill-image-vertx {
+  width: 85px;
+  height: 48px;
+  background-color: #868e96;
+  -webkit-mask-box-image: url(../../assets/images/vertx-white.png);
+}
+
+.skill-image-vertx:hover {
+  background-color: #645beb;
+}
+
+.skill-image-kotlin {
+  width: 50px;
+  height: 48px;
+  background-color: #868e96;
+  -webkit-mask-box-image: url(../../assets/images/kotlin-white.png);
+}
+
+.skill-image-kotlin:hover {
+  background-color: #645beb;
+}
+
+.skill-image-mongo {
+  width: 50px;
+  height: 48px;
+  background-color: #868e96;
+  -webkit-mask-box-image: url(../../assets/images/mongo-white.png);
+}
+
+.skill-image-mongo:hover {
+  background-color: #645beb;
+}
+
+.skill-image-kafka {
+  width: 35px;
+  height: 48px;
+  background-color: #868e96;
+  -webkit-mask-box-image: url(../../assets/images/kafka-white.png);
+}
+
+.skill-image-kafka:hover {
+  background-color: #645beb;
+}
+
+.skill-image-mqtt {
+  width: 50px;
+  height: 48px;
+  background-color: #868e96;
+  -webkit-mask-box-image: url(../../assets/images/mqtt-white.png);
+}
+
+.skill-image-mqtt:hover {
+  background-color: #645beb;
+}
+
+.skill-image-gcloud {
+  width: 50px;
+  height: 48px;
+  padding-left: 20%;
+  margin-left: 10%;
+  background-color: #868e96;
+  -webkit-mask-box-image: url(../../assets/images/gcloud-white.png);
+}
+
+.skill-image-gcloud:hover {
+  background-color: #645beb;
 }

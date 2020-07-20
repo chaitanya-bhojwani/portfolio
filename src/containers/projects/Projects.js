@@ -77,8 +77,8 @@ export default function Projects() {
   if (!(typeof repo === 'string' || repo instanceof String)){
   return (
     <Suspense fallback={renderLoader()}>
-      <div className="main" id="opensource">
-        <h1 className="project-title">Open Source Projects</h1>
+      <div className="main" id="gitProjects">
+        <h1 className="project-title">Github Projects</h1>
         <div className="repo-cards-div-main">
           {repo.map((v, i) => {
             return <GithubRepoCard repo={v} key={v.node.id} />;

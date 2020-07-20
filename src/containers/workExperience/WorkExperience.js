@@ -8,11 +8,11 @@ import { Fade } from "react-reveal";
 export default function WorkExperience() {
     if(workExperiences.viewExperiences){
         return (
-            <div id="experience">
+            <div id="workExperience">
                 <Fade bottom duration={1000} distance="20px">
                 <div className="experience-container" id="workExperience">
                     <div>
-                        <h1 className="experience-heading">Experiences</h1>
+                        <h1 className="experience-heading">Work Experience</h1>
                         <div className="experience-cards-div">
                         {workExperiences.experience.map((card) => {
                             return (

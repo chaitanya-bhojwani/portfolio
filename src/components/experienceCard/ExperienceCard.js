@@ -5,6 +5,13 @@ import ColorThief from "colorthief";
 export default function ExperienceCard({ cardInfo }) {
   const [colorArrays, setColorArrays] = useState([]);
   const imgRef = createRef();
+  var cardColour;
+
+  if (cardInfo.company === "OLA Cabs"){
+    cardColour = "#D7DF26"
+  } else if (cardInfo.company === "Jiva Adventures") {
+    cardColour = "#10EDC6"
+  }
 
   function getColorArrays() {
     const colorThief = new ColorThief();
@@ -21,7 +28,7 @@ export default function ExperienceCard({ cardInfo }) {
 
   return (
     <div className="experience-card">
-      <div style={{background: rgb(colorArrays) }} className="experience-banner">
+      <div style={{backgroundColor: cardColour }} className="experience-banner">
         <div className="experience-blurred_div"></div>
         <div className="experience-div-company">
           <h5 className="experience-text-company">{cardInfo.company}</h5>
