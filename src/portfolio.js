@@ -219,7 +219,7 @@ const achievementSection = {
       title: "Android Mentor at GirlScript",
       subtitle: "Conducted a series of Android Sessions under Education Outreach Programme conducted by GirlScript",
       image: require("./assets/images/girlscript.jpeg"),
-      footerLink: [{ name: "View Certification", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
+      footerLink: [{ name: "View Certification", url: "https://drive.google.com/file/d/14K875Nj4J74Q9V2eGoEjRJ8nnCYmTd5P/view?usp=sharing" }]
     },
 
     {
