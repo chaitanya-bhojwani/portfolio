@@ -24,7 +24,7 @@ export default function GithubProfileCard({prof}) {
               {prof.location !== null &&
             <div className="location-div">
               <span className="desc-prof">
-              {prof.email}
+              chaitanya.bhojwani1012@gmail.com
               </span>
             </div>}
             <div className="opp-div">

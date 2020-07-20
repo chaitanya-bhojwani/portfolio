@@ -33,7 +33,6 @@ export default function Profile() {
           isHireable
           avatarUrl
           location
-          email
         }
     }
       `,
