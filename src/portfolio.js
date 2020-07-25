@@ -95,18 +95,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "R",
-      fontAwesomeClassname: "fab fa-r-project"
-    },
-    {
-      skillName: "HTML 5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "CSS 3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
       skillName: "PHP",
       fontAwesomeClassname: "fab fa-php"
     }
