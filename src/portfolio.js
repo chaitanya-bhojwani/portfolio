@@ -10,7 +10,7 @@ const greeting = {
   username: "Chaitanya Bhojwani",
   title: "Chaitanya Bhojwani",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Scalable Backend Systems, Android and Web applications with Java / Vert.x / Nodejs / Python and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1W5RhUa9CRWiqNZ74dmn6OARwXUHuuacb/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1NrGDonZCasBgDjPOk8Pqrb3YmnfNG7J4/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -128,17 +128,27 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Development Intern",  
+      role: "SDE 1",  
       company: "OLA Cabs",
       companylogo: require("./assets/images/ola.png"),
-      date: "Jan 2020 – Present",
-      desc: "Worked on Building an end-to-end MicroService responsible for upgrade-downgrade of categories of Play Cars including sending driver notifications and runtime speech texts in Play Cars. Worked on building Trending Playlists and Special labels for Play Devices and various other tasks.",
+      date: "Sep 2020 – Present",
+      desc: "Worked on building Trending Playlists and Special labels for Play Devices and various other tasks.",
       descBullets: [
         "Technologies Worked On: Java, Vertx, REST API, Kafka, MQTT, Redis Cache, MySQL, SpringBoot, Python, AWS (S3).",
       ]
     },
     {
-      role: "Software Development Summer Intern",   
+      role: "SDE Intern",  
+      company: "OLA Cabs",
+      companylogo: require("./assets/images/ola.png"),
+      date: "Jan 2020 – Sep 2020",
+      desc: "Worked on Building an end-to-end MicroServices responsible for upgrade-downgrade of categories of Play Cars including sending driver notifications and runtime speech texts in Play Cars.",
+      descBullets: [
+        "Technologies Worked On: Java, Vertx, REST API, Kafka, MQTT, Redis Cache, MySQL, SpringBoot, Python, AWS (S3).",
+      ]
+    },
+    {
+      role: "SDE Summer Intern",   
       company: "OLA Cabs",
       companylogo: require("./assets/images/ola.png"),
       date: "May 2019 – Jun 2019",
@@ -148,7 +158,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Software Development Summer Intern",  
+      role: "SDE Summer Intern",  
       company: "Jiva Adventures",
       companylogo: require("./assets/images/jiva.png"),
       date: "May 2018 – Jun 2018",
