@@ -10,7 +10,7 @@ const greeting = {
   username: "Chaitanya Bhojwani",
   title: "Chaitanya Bhojwani",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Scalable Backend Systems, Android and Web applications with Java / Vert.x / Nodejs / Python and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1NrGDonZCasBgDjPOk8Pqrb3YmnfNG7J4/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1UDBoKjQ9RCeG89pOfE4-s3tjHWHE1NW1/view?usp=sharing"
 };
 
 // Your Social Media Link
