@@ -20,7 +20,7 @@ export default function GithubProfileCard({prof}) {
             <div className="blog-header">
               <p className="subTitle blog-subtitle">{contactInfo.subtitle}</p>
             </div>
-            <h2 className="bio-text">Bachelor of Technology (B.Tech) in Computer Science (CSE). Graduated from VIT, Vellore. <br/><br/> SDE Intern at OLA Cabs. </h2>
+            <h2 className="bio-text">Bachelor of Technology (B.Tech) in Computer Science (CSE). Graduated from VIT, Vellore. <br/><br/> SDE 1 at Flipkart. Ex-OLA </h2>
               {prof.location !== null &&
             <div className="location-div">
               <span className="desc-prof">

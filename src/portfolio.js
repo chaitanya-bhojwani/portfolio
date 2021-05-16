@@ -129,9 +129,16 @@ const workExperiences = {
   experience: [
     {
       role: "SDE 1",  
+      company: "Flipkart",
+      companylogo: require("./assets/images/flipkart.png"),
+      date: "Apr 2021 – Present",
+      desc: "Working on Backend for various Customer Experience Pages including Post Order Flows like My Orders and Order Details Page on Flipkart Website.",
+    },
+    {
+      role: "SDE 1",  
       company: "OLA Cabs",
       companylogo: require("./assets/images/ola.png"),
-      date: "Sep 2020 – Present",
+      date: "Sep 2020 – Mar 2021",
       desc: "Worked on building Trending Playlists and Special labels for Play Devices and various other tasks.",
       descBullets: [
         "Technologies Worked On: Java, Vertx, REST API, Kafka, MQTT, Redis Cache, MySQL, SpringBoot, Python, AWS (S3).",
