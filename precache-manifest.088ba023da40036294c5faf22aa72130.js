@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e029e9328d37d8760fbfaa5766005204",
+    "revision": "4a1890b2280e4616d08fe93f5f4474de",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "14fd11a561b689bb15b3",
-    "url": "/portfolio/static/css/3.cffc9e54.chunk.css"
+    "revision": "1442ca805f7d59cca0e5",
+    "url": "/portfolio/static/css/3.ec91b591.chunk.css"
   },
   {
-    "revision": "d2e24fdb8e1d0cc42642",
-    "url": "/portfolio/static/css/4.d2b3893c.chunk.css"
+    "revision": "d1070419d468eaefeb02",
+    "url": "/portfolio/static/css/4.524cd6f6.chunk.css"
   },
   {
-    "revision": "b40b92879618ac7caae5",
-    "url": "/portfolio/static/css/main.e41fa196.chunk.css"
+    "revision": "7a45a67c436de339cd1e",
+    "url": "/portfolio/static/css/main.4d3ee9cd.chunk.css"
   },
   {
-    "revision": "dffc34f0dc24a23cfa0b",
-    "url": "/portfolio/static/js/2.3e59c2bf.chunk.js"
+    "revision": "8a9bd47bd5ad018ea5a0",
+    "url": "/portfolio/static/js/2.50969f59.chunk.js"
   },
   {
-    "revision": "14fd11a561b689bb15b3",
-    "url": "/portfolio/static/js/3.0d836c63.chunk.js"
+    "revision": "1442ca805f7d59cca0e5",
+    "url": "/portfolio/static/js/3.25e872c4.chunk.js"
   },
   {
-    "revision": "d2e24fdb8e1d0cc42642",
-    "url": "/portfolio/static/js/4.0e473a6d.chunk.js"
+    "revision": "d1070419d468eaefeb02",
+    "url": "/portfolio/static/js/4.e21976d1.chunk.js"
   },
   {
-    "revision": "b40b92879618ac7caae5",
-    "url": "/portfolio/static/js/main.aac823c2.chunk.js"
+    "revision": "7a45a67c436de339cd1e",
+    "url": "/portfolio/static/js/main.2df60a67.chunk.js"
   },
   {
-    "revision": "2b11b8df995f64619888",
-    "url": "/portfolio/static/js/runtime-main.19e8992d.js"
+    "revision": "fa566299cc9a34144f30",
+    "url": "/portfolio/static/js/runtime-main.b32d9956.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/portfolio/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "ab4ffbd1eecf79aee73a02673e51ff65",
+    "url": "/portfolio/static/media/flipkart.ab4ffbd1.png"
   },
   {
     "revision": "a7b9bc3a192b49255f3856a180957d98",
