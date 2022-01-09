@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a8e2946a4621c6ef017660110797081",
+    "revision": "908d79e3647114314f21faf103341780",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "1442ca805f7d59cca0e5",
-    "url": "/portfolio/static/css/3.ec91b591.chunk.css"
+    "revision": "2d30e750de935be4bae3",
+    "url": "/portfolio/static/css/3.d437de19.chunk.css"
   },
   {
-    "revision": "d1070419d468eaefeb02",
-    "url": "/portfolio/static/css/4.524cd6f6.chunk.css"
+    "revision": "94b828bc80e11f0ef8f2",
+    "url": "/portfolio/static/css/4.c73c0197.chunk.css"
   },
   {
-    "revision": "6855b8fc5ee98c55f50e",
-    "url": "/portfolio/static/css/main.4d3ee9cd.chunk.css"
+    "revision": "47b0f1272c4b096a0341",
+    "url": "/portfolio/static/css/main.bf498303.chunk.css"
   },
   {
-    "revision": "8a9bd47bd5ad018ea5a0",
-    "url": "/portfolio/static/js/2.50969f59.chunk.js"
+    "revision": "61af440302d16992e18c",
+    "url": "/portfolio/static/js/2.da47a356.chunk.js"
   },
   {
-    "revision": "1442ca805f7d59cca0e5",
+    "revision": "2d30e750de935be4bae3",
     "url": "/portfolio/static/js/3.25e872c4.chunk.js"
   },
   {
-    "revision": "d1070419d468eaefeb02",
-    "url": "/portfolio/static/js/4.e21976d1.chunk.js"
+    "revision": "94b828bc80e11f0ef8f2",
+    "url": "/portfolio/static/js/4.e26b12eb.chunk.js"
   },
   {
-    "revision": "6855b8fc5ee98c55f50e",
-    "url": "/portfolio/static/js/main.d0c1f4e7.chunk.js"
+    "revision": "47b0f1272c4b096a0341",
+    "url": "/portfolio/static/js/main.cf217b90.chunk.js"
   },
   {
-    "revision": "fa566299cc9a34144f30",
-    "url": "/portfolio/static/js/runtime-main.b32d9956.js"
+    "revision": "f799a0a0be38684e2461",
+    "url": "/portfolio/static/js/runtime-main.483e4636.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/skill.34409398.svg"
   },
   {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/portfolio/static/media/talksCardBack.0288c5ec.svg"
+    "revision": "de3da8064f2e9ffab945772c2c67e46f",
+    "url": "/portfolio/static/media/talksCardBack.de3da806.svg"
   },
   {
     "revision": "193d6d721b5dc189be79b2c467155d73",
