@@ -33,9 +33,6 @@ function Header() {
             <a href="#achievements">Achievements</a>
           </li>
           <li>
-            <a href="#gitProjects">Github Projects</a>
-          </li>
-          <li>
             <a href="#blogs">Blogs</a>
           </li>
           <li>
